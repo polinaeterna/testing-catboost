@@ -1,0 +1,4 @@
+,LogLoss,F-measure_Class0,F-measure_Class1,F-measure,MeanRuntime,NumberOfTrees
+Default CatBoost,0.3328,0.85686,0.86123,0.85905,6757.48739,5000
+Default XGBoost,0.35183,0.84507,0.85121,0.84814,227.66527,348
+Default LightGBM,0.3462,0.84693,0.84984,0.84839,20.25777,130

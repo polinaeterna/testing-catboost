@@ -1,0 +1,6 @@
+*.pyc
+notebooks/*.tsv
+notebooks/test
+notebooks/train
+notebooks/.ipynb_checkpoints
+data/fraud-prediction/creditcard.csv
